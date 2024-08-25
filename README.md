@@ -36,6 +36,8 @@
 
 - ### I’m currently learning 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*GAeU_1Z3ouJ3Mkrf.png" alt="Your Image Description" width="500" height="300">
+<a href="https://data.typeracer.com/pit/profile?user=adham2002&ref=badge" target="_top">
+<img width="200" height="300"  src="https://data.typeracer.com/misc/badge?user=adham2002" border="0" alt="TypeRacer.com scorecard for user adham2002"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
