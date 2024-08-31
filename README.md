@@ -45,9 +45,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
+## Codewars Profile
+
+[![Codewars](https://www.codewars.com/users/adham20022023/badges/large)](https://www.codewars.com/users/adham20022023)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
+
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2> 
+
 <br />
-<br />
+
 
 <a href="https://github.com/adham20022023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham20022023&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" & width=100% align="center" />
@@ -69,10 +77,9 @@
 
 <br />
 
-<a href="https://github.com/adham20022023">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
-![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adham20022023&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+
+![Adham's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adham20022023&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 </a>
 <br/>
